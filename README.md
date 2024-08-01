@@ -1,4 +1,5 @@
 # simple-button-desgin
 Just a Simple Button Desgin With Hover Effects Using CSS
-![Screenshot 2024-08-01 204400](https://github.com/user-attachments/assets/e24024f1-3d1d-4538-b02d-ec769e7c49ad)
-![Screenshot 2024-08-01 204411](https://github.com/user-attachments/assets/f2338de6-ada0-4607-9a62-b39dc7a473e6)
+
+![Screenshot 2024-08-01 204400](https://github.com/user-attachments/assets/d6be0e70-e06a-45ad-8446-cacd4460c7db)
+![Screenshot 2024-08-01 204411](https://github.com/user-attachments/assets/6c376092-3e52-43a4-af38-3324c4ae6055)
